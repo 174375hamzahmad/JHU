@@ -1,1 +1,2 @@
 - This repository has solutions of each assignment module from a course named as "HTML, CSS, and Javascript for Web Developers" available at coursera.
+- Link to coursename "https://www.coursera.org/learn/html-css-javascript-for-web-developers"
